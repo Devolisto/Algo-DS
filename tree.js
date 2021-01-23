@@ -16,6 +16,8 @@ const prompt = require('prompt-sync')({sigint: true});
 //     }
 // }
 
+//got a bit confused here
+
 class AlienFamily{
     constructor(root) {
         this.root = root;

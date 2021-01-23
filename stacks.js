@@ -1,3 +1,5 @@
+// Understand the logic but the implementation needs more practice
+
 class Node {
     constructor(color, number, next = null) {
       this.color = color;

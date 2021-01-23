@@ -1,4 +1,6 @@
-  
+// this one was fairly easy 
+
+
 const prompt = require("prompt-sync")({ sigint: true });
 
 const students = [

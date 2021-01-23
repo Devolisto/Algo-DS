@@ -1,3 +1,5 @@
+// again the logic is easy to undertand but hopefully with practice it will become easier
+
 class Node {
     constructor(size, next = null) {
       this.size = size;
